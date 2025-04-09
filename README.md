@@ -14,7 +14,7 @@ This is a **Python GUI application** built using **PyQt5** that helps users crea
 ---
 
 ✅ Built with **PyQt5** for an interactive GUI  
-✅ Parses predefined `.tex` file (no upload required)  
+✅ Parses predefined `.tex` file 
 ✅ Lists all `\section` and `\subsection` headings  
 ✅ Supports selective content export  
 ✅ Generates a valid `.tex` file  
@@ -36,9 +36,9 @@ This is a **Python GUI application** built using **PyQt5** that helps users crea
  1. Clone the repo
 
 
-git clone https://github.com/your-username/osdag-latex-gui.git
+git clone https://github.com/Siya016/Osdag-Screening-task.git
 
-cd osdag-latex-gui
+cd Osdag-Screening-task
 
 2. Install Python dependencies
 
@@ -89,7 +89,7 @@ generate_pdf.py: Generates a new .tex file and compiles it with pdflatex to prod
 Run main.py:
 
 python main.py
-Select a .tex file (example provided).
+Select a .tex file from output
 
 A new `.tex` file is generated via `generate_pdf.py`
- User can compile the output `.tex` using Overleaf or MiKTeX to produce a clean, customized PDF
+ User can compile the output `.tex` using Overleaf or MiKTeX  to produce a clean, customized PDF
