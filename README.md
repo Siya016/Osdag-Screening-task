@@ -6,7 +6,7 @@ This is a **Python GUI application** built using **PyQt5** that helps users crea
 - Displays all `\section` and `\subsection` components
 - Lets users select the sections/subsections to include
 - Generates a new `.tex` file containing only the selected components
-- Allows users to compile the new file into a PDF (e.g., using Overleaf or `pdflatex`)
+- Allows users to compile the new file into a PDF (e.g., using Overleaf or pdflatex)
 
 
 
@@ -27,7 +27,7 @@ This is a **Python GUI application** built using **PyQt5** that helps users crea
 
 - **Python 3.8+**
 - **MiKTeX** (with pdflatex in system PATH)
-- Optional: PyQt5 for GUI (installed automatically below)
+- Optional: PyQt5 for GUI
 
 ---
 
